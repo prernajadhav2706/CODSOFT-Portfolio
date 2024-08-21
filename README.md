@@ -19,3 +19,13 @@ In this project, I created a Personal Portfolio by using Html and also used CSS 
 
 - [@prernajadhav2706](https://www.github.com/prernajadhav2706)
 
+ Documentation
+
+[Documentation](https://github.com/prernajadhav2706/Portfolio)
+
+
+ Lessons:
+I Leraned to implement HTML and CSS project to create a Personal Portfolio
+while implementing this project some errors were arrived such as web page unable to show images in browsers etc.
+to resolve this problem I runned this program using live server.
+
