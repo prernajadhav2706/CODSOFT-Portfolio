@@ -19,9 +19,7 @@ In this project, I created a Personal Portfolio by using Html and also used CSS 
 
 - [@prernajadhav2706](https://www.github.com/prernajadhav2706)
 
- Documentation
 
-[Documentation](https://github.com/prernajadhav2706/Portfolio)
 
 
  Lessons:
